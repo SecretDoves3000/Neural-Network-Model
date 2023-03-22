@@ -13,9 +13,28 @@ Data Preprocessing:
 
 Model Structures and Results. All models trained for 100 epochs.
 - For our first model we used two hidden layers, one with 7 neurons, and one with 5, using relu activation for the hidden layers and sigmoid for the outputs. With this model, we achieved an accuracy of ~72.52%
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m1SS.png)
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m1aSS.png)
+
 - For our first optimization attempt was adding more neurons, with 10 in the first layer and 7 in the second. This attempt achieved an accuracy of ~72.2%.
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m2SS.png)
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m2aSS.png)
+
 - For our second optimization, we return to the original neuron structure, but we use sigmoid activiations in all layers. This model achieved an accuracy of ~72.81%
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m3SS.png)
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m3aSS.png)
+
 - For our final attempt, we add a third hidden layer of 11 neurons using sigmoid activation functions. This model achieved an accuracy of ~72.54%
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m4SS.png)
+
+![](https://raw.githubusercontent.com/SecretDoves3000/Neural_Network_Model_Charity_Analysis/main/images/m4aSS.png)
 
 ## Summary
 
